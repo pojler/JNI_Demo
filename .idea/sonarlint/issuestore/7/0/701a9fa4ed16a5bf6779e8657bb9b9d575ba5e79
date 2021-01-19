@@ -1,0 +1,41 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¬”èéøÿÿÿÿ8ÉÛ÷Ôà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µšŠŠøÿÿÿÿ8ËŠÕà.
+R
+java:S1854 "5Remove this useless assignment to local variable "x".(ÿû¿Ë8‹ßşÔà.
+K
+java:S1659")Declare "determinant" on a separate line.(ÑŠ‹öùÿÿÿÿ8¤•Úà.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Õüã÷ùÿÿÿÿ8³ÜÔÖà.
+`
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(´¨¸Áÿÿÿÿÿ
+^	java:S107"=Method has 11 parameters, which is greater than 7 authorized.(¬”èéøÿÿÿÿ8Í‰“Õà.
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(ÇÑ×8‹ßşÔà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬”èéøÿÿÿÿ8å§†Õà.
+C
+java:S1659"!Declare "row" on a separate line.(ÑŠ‹öùÿÿÿÿ8Õğ²Õà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µšŠŠøÿÿÿÿ8§“’Õà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µšŠŠøÿÿÿÿ8Í‰“Õà.
+U
+java:S1197$"8Move the array designator from the variable to the type.(Â‚“8‹ßşÔà.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¾ÆÌÓüÿÿÿÿ8©Î‘ß.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬”èéøÿÿÿÿ8ˆÕà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µšŠŠøÿÿÿÿ8®Õà.
+C
+java:S1659"!Declare "min" on a separate line.(ÑŠ‹öùÿÿÿÿ8Õğ²Õà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŠ‹öùÿÿÿÿ8Õğ²Õà.
+R
+java:S1659"0Declare "number_of_collumns" on a separate line.(ÑŠ‹öùÿÿÿÿ8Õğ²Õà.
+C
+java:S1481 "&Remove this unused "x" local variable.(ÿû¿Ë8‹ßşÔà.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÛšÀÈûÿÿÿÿ8¦ØÉÓà.
+]	java:S125!"<This block of commented-out lines of code should be removed.(¦¦™³üÿÿÿÿ8‹ßşÔà.
+C
+java:S1659"!Declare "max" on a separate line.(ÑŠ‹öùÿÿÿÿ8Õğ²Õà.
+X	java:S125#"<This block of commented-out lines of code should be removed.(Æÿ××8‹ßşÔà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µšŠŠøÿÿÿÿ8ËŠÕà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µšŠŠøÿÿÿÿ8Í‰“Õà.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŠ‹öùÿÿÿÿ8Õğ²Õà.
